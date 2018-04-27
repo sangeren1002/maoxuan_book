@@ -10,7 +10,7 @@
   * [星星之火，可以燎原](xing-xing-zhi-huo-ff0c-ke-yi-liao-yuan.md)
   * [反对本本主义](fan-dui-ben-ben-zhu-yi.md)
   * [必须注意经济工作](bi-xu-zhu-yi-jing-ji-gong-zuo.md)
-  * 怎样分析农村阶级
+  * [怎样分析农村阶级](zen-yang-fen-xi-nong-cun-jie-ji.md)
   * 我们的经济政策
   * 关心群众生活，注意工作方法
   * [论反对日本帝国主义的策略](lun-fa-dui-ri-ben-di-guo-zhu-yi-de-ce-lve.md)
