@@ -8,7 +8,7 @@
   * [井冈山的斗争](jing-gang-shan-de-dou-zheng.md)
   * [关于纠正党内的错误思想](guan-yu-jiu-zheng-dang-nei-de-cuo-wu-si-xiang.md)
   * [星星之火，可以燎原](xing-xing-zhi-huo-ff0c-ke-yi-liao-yuan.md)
-  * 反对本本主义
+  * [反对本本主义](fan-dui-ben-ben-zhu-yi.md)
   * 必须注意经济工作
   * 怎样分析农村阶级
   * 我们的经济政策
