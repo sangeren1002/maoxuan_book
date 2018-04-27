@@ -2,7 +2,7 @@
 
 * [序](README.md)
 * [第一卷](di-yi-juan.md)
-  * 中国社会各阶级的分析
+  * [中国社会各阶级的分析](zhong-guo-she-hui-ge-jie-ji-de-fen-xi.md)
   * 湖南农民运动考察报告
   * 中国的红色政权为什么能够存在？
   * 井冈山的斗争
