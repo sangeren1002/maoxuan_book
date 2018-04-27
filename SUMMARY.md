@@ -9,7 +9,7 @@
   * [关于纠正党内的错误思想](guan-yu-jiu-zheng-dang-nei-de-cuo-wu-si-xiang.md)
   * [星星之火，可以燎原](xing-xing-zhi-huo-ff0c-ke-yi-liao-yuan.md)
   * [反对本本主义](fan-dui-ben-ben-zhu-yi.md)
-  * 必须注意经济工作
+  * [必须注意经济工作](bi-xu-zhu-yi-jing-ji-gong-zuo.md)
   * 怎样分析农村阶级
   * 我们的经济政策
   * 关心群众生活，注意工作方法
