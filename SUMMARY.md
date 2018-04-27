@@ -7,7 +7,7 @@
   * [中国的红色政权为什么能够存在？](zhong-guo-de-hong-se-zheng-quan-wei-shi-yao-neng-gou-cun-zai-ff1f.md)
   * [井冈山的斗争](jing-gang-shan-de-dou-zheng.md)
   * [关于纠正党内的错误思想](guan-yu-jiu-zheng-dang-nei-de-cuo-wu-si-xiang.md)
-  * 星星之火，可以燎原
+  * [星星之火，可以燎原](xing-xing-zhi-huo-ff0c-ke-yi-liao-yuan.md)
   * 反对本本主义
   * 必须注意经济工作
   * 怎样分析农村阶级
