@@ -5,7 +5,7 @@
   * [中国社会各阶级的分析](zhong-guo-she-hui-ge-jie-ji-de-fen-xi.md)
   * [湖南农民运动考察报告](hu-nan-nong-min-yun-dong-kao-cha-bao-gao.md)
   * [中国的红色政权为什么能够存在？](zhong-guo-de-hong-se-zheng-quan-wei-shi-yao-neng-gou-cun-zai-ff1f.md)
-  * 井冈山的斗争
+  * [井冈山的斗争](jing-gang-shan-de-dou-zheng.md)
   * 关于纠正党内的错误思想
   * 星星之火，可以燎原
   * 反对本本主义
