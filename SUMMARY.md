@@ -16,7 +16,7 @@
   * [论反对日本帝国主义的策略](lun-fa-dui-ri-ben-di-guo-zhu-yi-de-ce-lve.md)
   * [中国革命战争的战略问题](zhong-guo-ge-ming-zhan-zheng-de-zhan-lve-wen-ti.md)
   * [关于蒋介石声明的声明](guan-yu-jiang-jie-shi-sheng-ming-de-sheng-ming.md)
-  * 为争取千百万群众进入抗日民族统一战线
+  * [为争取千百万群众进入抗日民族统一战线](wei-zheng-qu-qian-bai-wan-qun-zhong-jin-ru-kang-ri-min-zu-tong-yi-zhan-xian.md)
   * 中国共产党在抗日时期的任务
   * 实践论
   * 矛盾论
